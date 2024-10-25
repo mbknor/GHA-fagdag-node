@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: 20
 
-      # Oppgave 4: Installere dependencies
+      # Oppgave 4: Installere dependencies - 
       - name: npm install
 
       # Oppgave 5: Kjører testene i prosjektet. Feiler jobben dersom tester feiler.
