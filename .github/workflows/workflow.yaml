@@ -22,6 +22,7 @@ jobs:
 
       # Oppgave 4: Installere dependencies - 
       - name: npm install
+        run: npm install
 
       # Oppgave 5: Kjører testene i prosjektet. Feiler jobben dersom tester feiler.
       #- name: Run tests
